@@ -12,7 +12,7 @@
   <!-- TOP NAV WITH LOGO -->
   <?php include '../menu.php' ; ?>
 <section>
-<div id="slideshow" class="slideshow" style="top-padding :30%">
+<div id="slideshow" class="slideshow" >
         <ul>
           <li>
             <div class="slide">
