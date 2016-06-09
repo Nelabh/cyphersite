@@ -11,19 +11,22 @@ $body="The following person tries to send his query<br>Name : ".
 $name."<br>Email : ".$email."<br>Phone : ".$phone."<br>Subject : ".
 $subject."<br><br>Content : ".$comment;
 
-$to='sush.94kh@gmail.com';
+$to='info@cyphertextsolutions.com';
 
 //$mail->SMTPDebug = 3;                               // Enable verbose debug output
 
-$mail->isSMTP();                                      // Set mailer to use SMTP
+$mail->isSMTP(); 
+/*$mail->SMTPDebug = 4;
+
+$mail->Debugoutput = 'html';      */                               // Set mailer to use SMTP
 $mail->Host = 'host125.hostmonster.com';  // Specify main and backup SMTP servers
 $mail->SMTPAuth = true;                               // Enable SMTP authentication
 $mail->Username = 'info@cyphertextsolutions.com';                 // SMTP username
 $mail->Password = 'disneyworld1_$';                           // SMTP password
-$mail->SMTPSecure = 'tls';                            // Enable TLS encryption, `ssl` also accepted
+$mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, `ssl` also accepted
 $mail->Port = 465;                                    // TCP port to connect to
 
-$mail->setFrom('info@cyphertextsolutions.com', 'hello');
+$mail->setFrom('sush.94kh@gmail.com', $name);
 $mail->addAddress($to);
 
 $mail->addReplyTo($email);
