@@ -66,6 +66,15 @@
                      {  ?>
                      <li><a href="http://localhost/cyphersite/contact">Contact</a></li>
                      <?php } ?>
+  <?php if($_SERVER['REQUEST_URI'] == '/cyphersite/portfolio/'){ ?>
+
+<li class="active-item"><a href="http://localhost/cyphersite/portfolio">Portfolio</a></li>
+                  <?php }
+                  else
+                     {  ?>
+                     <li><a href="http://localhost/cyphersite/portfolio">Portfolio</a></li>
+                     <?php } ?>
+
 
                   </ul>
                </div>
