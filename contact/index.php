@@ -89,7 +89,7 @@
   <div class="col-md-4 inputGroupContainer">
   <div class="input-group">
   <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
-  <input  name="first_name" placeholder="First Name" class="form-control"  type="text">
+  <input  name="name" placeholder="First Name" class="form-control"  type="text">
     </div>
   </div>
 </div>
@@ -116,7 +116,7 @@
     <div class="col-md-4 inputGroupContainer">
     <div class="input-group">
         <span class="input-group-addon"><i class="glyphicon glyphicon-earphone"></i></span>
-  <input name="phone" placeholder="(845)555-1212" class="form-control" type="text">
+  <input name="phone" placeholder="9898989898" class="form-control" type="text">
     </div>
   </div>
 </div>
@@ -136,7 +136,7 @@
   <div class="col-md-4 inputGroupContainer">
   <div class="input-group">
   <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
-  <input  name="first_name" placeholder="Subject" class="form-control"  type="text">
+  <input  name="subject" placeholder="Subject" class="form-control"  type="text">
     </div>
   </div>
 </div>
@@ -177,7 +177,8 @@
 <?php include '../footer.php' ; ?>
  <script src="a.js"></script>
  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
-
+<script type="text/javascript" src = "https://cdnjs.cloudflare.com/ajax/libs/bootstrap-validator/0.5.3/js/bootstrapValidator.js
+" ></script>
      
    </body>
       </html>
