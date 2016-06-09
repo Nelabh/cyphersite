@@ -11,15 +11,10 @@
     
   <!-- TOP NAV WITH LOGO -->
   <?php include '../menu.php' ; ?>
-<section>
-<div id="slideshow" class="slideshow" >
+<div id="slideshow" class="slideshow">
         <ul>
           <li>
-            <div class="slide">
-              <div class="codrops-links">
-                <a class="codrops-icon codrops-icon-prev" href="http://tympanus.net/Development/TooltipStylesInspiration/"><span>Previous Demo</span></a>
-                <a class="codrops-icon codrops-icon-drop" href="http://tympanus.net/codrops/?p=20714"><span>Back to the Codrops Article</span></a>
-              </div>
+            <div class="slide" style="top-padding:12%">
               <img class="icon" src="wobb/img/icons/browser.svg" alt="Browser Icon"/>
               <h1>Wobbly Slideshow Effect</h1>
               <p>Based on the Dribble shot <br /><a href="https://dribbble.com/shots/1701001-GIF-Exercise">GIF Exercise</a> by <a href="https://dribbble.com/SergeyValiukh">Sergey Valiukh</a></p>
@@ -89,7 +84,6 @@
           </li>
         </ul>
       </div>
-</section>
 <?php include '../footer.php' ; ?>     
         <script src="wobb/js/classie.js"></script>
     <script src="wobb/js/sliderFx.js"></script>
