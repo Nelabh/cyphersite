@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <?php include '../header.php' ; ?>
+ <link rel="stylesheet" href="a.css" />
 <body class="size-1140">
   <!-- TOP NAV WITH LOGO -->
   <?php include '../menu.php' ; ?>
@@ -71,6 +72,101 @@
                </div>
             </div>
          </div>
+
+         <div class="container">
+
+    <form class="well form-horizontal" action=" " method="post"  id="contact_form">
+<fieldset>
+
+<!-- Form Name -->
+<legend>Contact Us Today!</legend>
+
+<!-- Text input-->
+
+<div class="form-group">
+  <label class="col-md-4 control-label">Name</label>  
+  <div class="col-md-4 inputGroupContainer">
+  <div class="input-group">
+  <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
+  <input  name="first_name" placeholder="First Name" class="form-control"  type="text">
+    </div>
+  </div>
+</div>
+
+<!-- Text input-->
+
+
+<!-- Text input-->
+       <div class="form-group">
+  <label class="col-md-4 control-label">E-Mail</label>  
+    <div class="col-md-4 inputGroupContainer">
+    <div class="input-group">
+        <span class="input-group-addon"><i class="glyphicon glyphicon-envelope"></i></span>
+  <input name="email" placeholder="E-Mail Address" class="form-control"  type="text">
+    </div>
+  </div>
+</div>
+
+
+<!-- Text input-->
+       
+<div class="form-group">
+  <label class="col-md-4 control-label">Mobile No.</label>  
+    <div class="col-md-4 inputGroupContainer">
+    <div class="input-group">
+        <span class="input-group-addon"><i class="glyphicon glyphicon-earphone"></i></span>
+  <input name="phone" placeholder="(845)555-1212" class="form-control" type="text">
+    </div>
+  </div>
+</div>
+
+<!-- Text input-->
+      
+
+<!-- Text input-->
+ 
+
+
+<!-- Select Basic -->
+   
+
+<div class="form-group">
+  <label class="col-md-4 control-label">Subject</label>  
+  <div class="col-md-4 inputGroupContainer">
+  <div class="input-group">
+  <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
+  <input  name="first_name" placeholder="Subject" class="form-control"  type="text">
+    </div>
+  </div>
+</div>
+
+<!-- Text area -->
+  
+<div class="form-group">
+  <label class="col-md-4 control-label">Description</label>
+    <div class="col-md-4 inputGroupContainer">
+    <div class="input-group">
+        <span class="input-group-addon"><i class="glyphicon glyphicon-pencil"></i></span>
+          <textarea class="form-control" name="comment" placeholder="Type Here....."></textarea>
+  </div>
+  </div>
+</div>
+
+<!-- Success message -->
+<div class="alert alert-success" role="alert" id="success_message">Success <i class="glyphicon glyphicon-thumbs-up"></i> Thanks for contacting us, we will get back to you shortly.</div>
+
+<!-- Button -->
+<div class="form-group">
+  <label class="col-md-4 control-label"></label>
+  <div class="col-md-4">
+    <button type="submit" class="btn btn-warning" >Send <span class="glyphicon glyphicon-send"></span></button>
+  </div>
+</div>
+
+</fieldset>
+</form>
+</div>
+    </div><!-- /.container -->
          <!-- MAP -->
          <div id="map-block">     
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14015.042354103418!2d77.335171220174!3d28.57695106274169!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce5b00a81b695%3A0x8a1ca026333e09fa!2sSector+31%2C+Noida%2C+Uttar+Pradesh+201301!5e0!3m2!1sen!2sin!4v1444875224567" width="100%" height="450" frameborder="0" style="border:0"></iframe>
@@ -78,6 +174,7 @@
      
 </section>
 <?php include '../footer.php' ; ?>
+ <script src="a.js"></script>
 
      
    </body>
