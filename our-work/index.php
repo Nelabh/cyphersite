@@ -5,7 +5,7 @@
   <?php include '../menu.php' ; ?>
 <section>
          <div id="our-work">
-            <div class="line" style="padding-top: 12%">
+            <div class="line" style="padding-top: 3%">
                <h2 class="section-title">Our Work</h2>
                <div class="tabs">
                   <div class="tab-item tab-active">

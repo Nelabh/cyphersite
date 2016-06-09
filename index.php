@@ -6,7 +6,7 @@
 
   <section>
    <!-- CAROUSEL --> 
-   <div id="carousel" style="padding-top: 12%">
+   <div id="carousel">
     <div id="owl-demo" class="owl-carousel owl-theme"> 
      <div class="item">
       <img src="img/innovation.jpg" alt="">
@@ -65,14 +65,14 @@
   <div class="line">
    <h1>Amazing Responsive Design</h1>
    <p>Awesome and wonderful design is what we are expert in.</p>
-   <div class="s-12 m-4 l-2 center"><a class="white-btn" href="#contact">Contact Us</a></div>
+   <div class="s-12 m-4 l-2 center"><a class="white-btn" href="http://localhost/cyphersite/contact">Contact Us</a></div>
  </div>
 </div>
 
 </section>
 <!-- FOOTER -->
 <?php include 'footer.php'; ?>
-<script type="text/javascript" src="owl-carousel/owl.carousel.js"></script>
+<script type="text/javascript" src="http://localhost/cyphersite/owl-carousel/owl.carousel.js"></script>
 <script type="text/javascript">
  jQuery(document).ready(function($) {
   var theme_slider = $("#owl-demo");

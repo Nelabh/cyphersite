@@ -21,7 +21,7 @@
                   <p class="nav-text">Menu</p>
                   <ul class="right">
                   <?php if($_SERVER['REQUEST_URI'] == '/cyphersite/'){ ?>
-                     <li class="active-item"><a href="http://localhost/cyphersite/">Home</a></li>
+                     <li class="active-item"><a href="http://localhost/cyphersite">Home</a></li>
                   <?php }
                   else
                      {  ?>
