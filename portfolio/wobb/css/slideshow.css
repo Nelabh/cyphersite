@@ -22,8 +22,6 @@ body,
 .slideshow ul {
 	margin: 0;
 	padding: 0;
-	height: 70%;
-	
 	list-style-type: none;
 }
 
@@ -32,7 +30,6 @@ body,
 	transform: translateZ(0);
 	float: left;
 	display: block;
-	height: 70%;
 	margin: 0;
 	padding: 0 40px;
 	position: relative;
