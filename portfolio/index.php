@@ -15,23 +15,23 @@
         <ul>
           <li>
             <div class="slide" style="top-padding:12%">
-              <img class="icon" src="wobb/img/2.jpg" alt="Browser Icon"/>
+              <img class="icon" src="wobb/img/4.jpg" alt="Browser Icon"/>
               <h1>MUSH CLOTHING</h1>
-              <p>Mush Clothing is a website on magento framework (PHP) .<br/> Mush clothing is one of the UK's leading retail and online fashion boutiques. <br/>WTheyspecialise in men's and women's apparel, footwear, sunglasses, watches, <br/>handbags and  <br />accessories, featuring brands such as Stone Island, Armani Jeans, Guess, Moschino, Versace and Franklin & Marshall<a href="https://www.mushclothing.com/"></a></p>
+              <p>Mush Clothing is a website on magento framework (PHP) .<br/> Mush clothing is one of the UK's leading retail and online fashion boutiques. <br/>WTheyspecialise in men's and women's apparel, footwear, sunglasses, watches, <br/>handbags and  <br />accessories, featuring brands such as Stone Island, Armani Jeans, Guess, Moschino, Versace and Franklin & Marshall<br/><a targer="_blank" href="https://www.mushclothing.com/">Click Here to view</a></p>
             </div>
           </li>
           <li>
             <div class="slide" style="top-padding:12%">
               <img class="icon" src="wobb/img/1.jpg" alt="Browser Icon"/>
               <h1>NORTON BARRIE</h1>
-              <p>Norton Barrie is the UK's leading menswear destination<br/> specialising in designer clothing including brands <br/>Hugo Boss, Zegna and Canali .<br/> This website is developed on magento framework of php.<br /><a href="http://www.nortonbarrie.co.uk/"></p>
+              <p>Norton Barrie is the UK's leading menswear destination<br/> specialising in designer clothing including brands <br/>Hugo Boss, Zegna and Canali .<br/> This website is developed on magento framework of php.<br /><a target="_blank" href="http://www.nortonbarrie.co.uk/">click here to view</a></p>
             </div>
           </li>
           <li>
             <div class="slide" style="top-padding:12%">
-              <img class="icon" src="wobb/img/3.jpg" alt="Browser Icon"/>
+              <img class="icon" src="wobb/img/2.jpg" alt="Browser Icon"/>
               <h1>BRANDS SCROLLER</h1>
-              <p>Based on the Dribble shot Let you show awesome scroller of your brands, <br/>showing the customers brands <br/>you show in a very attractive way.<br /><a href="https://www.magentocommerce.com/magento-connect/brands-scroller.html"></a></p>
+              <p>Based on the Dribble shot Let you show awesome scroller of your brands, <br/>showing the customers brands <br/>you show in a very attractive way.<br /><a target="_blank" href="https://www.magentocommerce.com/magento-connect/brands-scroller.html">click here to view</a></p>
             </div>
 
             </li>
@@ -40,9 +40,9 @@
           <li>
 
             <div class="slide" style="top-padding:12%">
-              <img class="icon" src="wobb/img/4.jpg" alt="Browser Icon"/>
+              <img class="icon" src="wobb/img/3.jpg" alt="Browser Icon"/>
               <h1>IMAGE SLIDER</h1>
-              <p>Beautiful image slider for magento. <br/>Magento slider which is very easy to use.<br/> Special Price Offer. <br /><a href="https://www.magentocommerce.com/magento-connect/mag-image-slider.htmlhttps://dribbble.com/shots/1701001-GIF-Exercise"></a></p>
+              <p>Beautiful image slider for magento. <br/>Magento slider which is very easy to use.<br/> Special Price Offer. <br /><a target="_blank" href="https://www.magentocommerce.com/magento-connect/mag-image-slider.htmlhttps://dribbble.com/shots/1701001-GIF-Exercise">click here to view</a></p>
              </div>
           </li>   
         </ul>
