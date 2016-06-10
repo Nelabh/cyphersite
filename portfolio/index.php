@@ -15,73 +15,36 @@
         <ul>
           <li>
             <div class="slide" style="top-padding:12%">
-              <img class="icon" src="wobb/img/icons/browser.svg" alt="Browser Icon"/>
-              <h1>Wobbly Slideshow Effect</h1>
-              <p>Based on the Dribble shot <br /><a href="https://dribbble.com/shots/1701001-GIF-Exercise">GIF Exercise</a> by <a href="https://dribbble.com/SergeyValiukh">Sergey Valiukh</a></p>
+              <img class="icon" src="wobb/img/2.jpg" alt="Browser Icon"/>
+              <h1>MUSH CLOTHING</h1>
+              <p>Mush Clothing is a website on magento framework (PHP) .<br/> Mush clothing is one of the UK's leading retail and online fashion boutiques. <br/>WTheyspecialise in men's and women's apparel, footwear, sunglasses, watches, <br/>handbags and  <br />accessories, featuring brands such as Stone Island, Armani Jeans, Guess, Moschino, Versace and Franklin & Marshall<a href="https://www.mushclothing.com/"></a></p>
             </div>
           </li>
           <li>
-            <div class="slide">
-              <img class="icon" src="wobb/img/icons/heart.svg" alt="Heart Icon"/>
-              <blockquote>
-                <p>Never fear quarrels, but seek hazardous adventures.</p>
-              </blockquote>
-              <p>Alexandre Dumas</p>
+            <div class="slide" style="top-padding:12%">
+              <img class="icon" src="wobb/img/1.jpg" alt="Browser Icon"/>
+              <h1>NORTON BARRIE</h1>
+              <p>Norton Barrie is the UK's leading menswear destination<br/> specialising in designer clothing including brands <br/>Hugo Boss, Zegna and Canali .<br/> This website is developed on magento framework of php.<br /><a href="http://www.nortonbarrie.co.uk/"></p>
             </div>
           </li>
           <li>
-            <div class="slide">
-              <img class="icon" src="wobb/img/icons/letter.svg" alt="Letter Icon"/>
-              <blockquote>
-                <p>If you don't know where you are going, any road will get you there.</p>
-              </blockquote>
-              <p>Lewis Carroll</p>
+            <div class="slide" style="top-padding:12%">
+              <img class="icon" src="wobb/img/3.jpg" alt="Browser Icon"/>
+              <h1>BRANDS SCROLLER</h1>
+              <p>Based on the Dribble shot Let you show awesome scroller of your brands, <br/>showing the customers brands <br/>you show in a very attractive way.<br /><a href="https://www.magentocommerce.com/magento-connect/brands-scroller.html"></a></p>
             </div>
-          </li>
+
+            </li>
+
+
           <li>
-            <div class="slide">
-              <img class="icon" src="wobb/img/icons/football.svg" alt="Football Icon"/>
-              <blockquote>
-                <p>Procrastination is the art of keeping up with yesterday.</p>
-              </blockquote>
-              <p>Don Marquis</p>
+            <div class="slide" style="top-padding:12%">
+              <img class="icon" src="wobb/img/4.jpg" alt="Browser Icon"/>
+              <h1>IMAGE SLIDER</h1>
+              <p>Beautiful image slider for magento. <br/>Magento slider which is very easy to use.<br/> Special Price Offer. <br /><a href="https://www.magentocommerce.com/magento-connect/mag-image-slider.htmlhttps://dribbble.com/shots/1701001-GIF-Exercise"></a></p>
             </div>
           </li>
-          <li>
-            <div class="slide">
-              <img class="icon" src="wobb/img/icons/match.svg" alt="Match Icon"/>
-              <blockquote>
-                <p>I'm an idealist. I don't know where I'm going, but I'm on my way.</blockquote>
-              <p>Carl Sandburg</p>
-            </div>
-          </li>
-          <li>
-            <div class="slide">
-              <img class="icon" src="wobb/img/icons/watch.svg" alt="Watch Icon"/>
-              <blockquote>
-                <p>I refuse to join any club that would have me as a member.</blockquote>
-              <p>Groucho Marx</p>
-            </div>
-          </li>
-          <li>
-            <div class="slide">
-              <div class="codrops-links">
-                <a class="codrops-icon codrops-icon-prev" href="http://tympanus.net/Development/TooltipStylesInspiration/"><span>Previous Demo</span></a>
-                <a class="codrops-icon codrops-icon-drop" href="http://tympanus.net/codrops/?p=20714"><span>Back to the Codrops Article</span></a>
-              </div>
-              <div class="related">
-                <p>If you enjoyed this demo you might also like:</p>
-                <a href="http://tympanus.net/Tutorials/PagePreloadingEffect/">
-                  <img src="wobb/img/related/PagePreloadingEffect.png" />
-                  <h3>Page Preloading Effect</h3>
-                </a>
-                <a href="http://tympanus.net/Development/ButtonComponentMorph/">
-                  <img src="wobb/img/related/MorphingButtons.png" />
-                  <h3>Morphing Buttons</h3>
-                </a>
-              </div>
-            </div>
-          </li>
+          
         </ul>
       </div>
 <?php include '../footer.php' ; ?>     
