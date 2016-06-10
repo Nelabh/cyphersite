@@ -65,10 +65,7 @@
           </li>
           <li>
             <div class="slide">
-              <div class="codrops-links">
-                <a class="codrops-icon codrops-icon-prev" href="http://tympanus.net/Development/TooltipStylesInspiration/"><span>Previous Demo</span></a>
-                <a class="codrops-icon codrops-icon-drop" href="http://tympanus.net/codrops/?p=20714"><span>Back to the Codrops Article</span></a>
-              </div>
+             
               <div class="related">
                 <p>If you enjoyed this demo you might also like:</p>
                 <a href="http://tympanus.net/Tutorials/PagePreloadingEffect/">
