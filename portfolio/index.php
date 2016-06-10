@@ -38,13 +38,13 @@
 
 
           <li>
+
             <div class="slide" style="top-padding:12%">
               <img class="icon" src="wobb/img/4.jpg" alt="Browser Icon"/>
               <h1>IMAGE SLIDER</h1>
               <p>Beautiful image slider for magento. <br/>Magento slider which is very easy to use.<br/> Special Price Offer. <br /><a href="https://www.magentocommerce.com/magento-connect/mag-image-slider.htmlhttps://dribbble.com/shots/1701001-GIF-Exercise"></a></p>
-            </div>
-          </li>
-          
+             </div>
+          </li>   
         </ul>
       </div>
 <?php include '../footer.php' ; ?>     
