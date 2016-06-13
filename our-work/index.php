@@ -54,67 +54,60 @@
     <figure class="effect-oscar  wowload fadeIn">
         <img src="images/portfolio/11.jpg" alt="img01"/>
         <figcaption>
-            <h2>HOSPITALS</h2>
-            <p>State wise list of hospitals in India<br>
-            <a href="{{URL::asset('/information')}}" title="1" data-gallery>View more</a></p>            
+            <h2>PAYROLL</h2>
+            <p><br>
+            <a href="{{URL::asset('/information')}}" title="1" data-gallery></a></p>            
         </figcaption>
     </figure>
      <figure class="effect-oscar  wowload fadeInUp">
         <img src="images/portfolio/12.png" alt="img01"/>
         <figcaption>
-            <h2>TRANSPORT</h2>
-            <p>State wise list of vehicles registered per year<br>
-            <a href="images/portfolio/12.png" title="1" data-gallery>View more</a></p>            
+            <h2>ERP</h2>
+            <a href="images/portfolio/12.png" title="1" data-gallery></a></p>            
         </figcaption>
     </figure>
     
      <figure class="effect-oscar  wowload fadeInUp">
         <img src="images/portfolio/14.png" alt="img01"/>
         <figcaption>
-            <h2>HOTELS</h2>
-            <p>State wise list of hotels <br>
-            <a href="images/portfolio/14.png" title="1" data-gallery>View more</a></p>            
+            <h2>MAGENTO EXTENSIONS</h2>
+            <a href="images/portfolio/14.png" title="1" data-gallery></a></p>            
         </figcaption>
     </figure>
      <figure class="effect-oscar  wowload fadeInUp">
         <img src="images/portfolio/15.jpg" alt="img01"/>
         <figcaption>
-            <h2>RAILWAYS</h2>
-            <p>Railway Time Table<br>
-            <a href="{{URL::asset('/railway')}}" title="1" data-gallery>View more</a></p>            
+            <h2>WEB APPLICATION</h2>
+            <a href="{{URL::asset('/railway')}}" title="1" data-gallery></a></p>            
         </figcaption>
     </figure>
      
      <figure class="effect-oscar  wowload fadeInUp">
         <img src="images/portfolio/16.jpg" alt="img01"/>
         <figcaption>
-            <h2>PINCODE </h2>
-            <p>List of pincode directory with contacts <br>
-            <a href={{URL::asset('/pincode')}} title="1" data-gallery>View more</a></p>            
+            <h2>DESKTOP APPLICATION</h2>
+            <a href={{URL::asset('/pincode')}} title="1" data-gallery></a></p>            
         </figcaption>
     </figure>
     <figure class="effect-oscar  wowload fadeInUp">
         <img src="images/portfolio/17.jpg" alt="img01"/>
         <figcaption>
-            <h2>IMPORTS</h2>
-            <p>State wise list of imports in an year<br>
-            <a href="{{URL::asset('/wholesale')}}" title="1" data-gallery>View more</a></p>            
+            <h2>BIOMETRIC INTEGRAPTION</h2>
+            <a href="{{URL::asset('/wholesale')}}" title="1" data-gallery></a></p>            
         </figcaption>
     </figure>
     <figure class="effect-oscar  wowload fadeInUp">
         <img src="images/portfolio/18.jpg" alt="img01"/>
         <figcaption>
-            <h2>HEALTH CENTRES</h2>
-            <p>State wise list of Community Health Centres<br>
-            <a href="{{URL::asset('/information')}}" title="1" data-gallery>View more</a></p>            
+            <h2>INVENTORY MANAGEMENT</h2>
+            <a href="{{URL::asset('/information')}}" title="1" data-gallery></a></p>            
         </figcaption>
     </figure>
     <figure class="effect-oscar  wowload fadeInUp">
         <img src="images/portfolio/19.png" alt="img01"/>
         <figcaption>
-            <h2>BLOOD<BR>BANK</h2>
-            <p>State wise list of Blood Bank Repositries<br>
-            <a href="{{URL::asset('/information')}}" title="1" data-gallery>View more</a></p>            
+            <h2>CRM</h2>
+            <a href="{{URL::asset('/information')}}" title="1" data-gallery></a></p>            
         </figcaption>
     </figure>
    
