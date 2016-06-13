@@ -60,27 +60,20 @@
         </figcaption>
     </figure>
      <figure class="effect-oscar  wowload fadeInUp">
-        <img src="images/portfolio/12.jpg" alt="img01"/>
+        <img src="images/portfolio/12.png" alt="img01"/>
         <figcaption>
             <h2>TRANSPORT</h2>
             <p>State wise list of vehicles registered per year<br>
-            <a href="images/portfolio/12.jpg" title="1" data-gallery>View more</a></p>            
+            <a href="images/portfolio/12.png" title="1" data-gallery>View more</a></p>            
         </figcaption>
     </figure>
+    
      <figure class="effect-oscar  wowload fadeInUp">
-        <img src="images/portfolio/13.jpg" alt="img01"/>
-        <figcaption>
-            <h2>EDUCATION</h2>
-            <p>State wise list of availability of Education loans<br>
-            <a href="{{URL::asset('/information')}}" title="1" data-gallery>View more</a></p>            
-        </figcaption>
-    </figure>
-     <figure class="effect-oscar  wowload fadeInUp">
-        <img src="images/portfolio/14.jpg" alt="img01"/>
+        <img src="images/portfolio/14.png" alt="img01"/>
         <figcaption>
             <h2>HOTELS</h2>
             <p>State wise list of hotels <br>
-            <a href="images/portfolio/14.jpg" title="1" data-gallery>View more</a></p>            
+            <a href="images/portfolio/14.png" title="1" data-gallery>View more</a></p>            
         </figcaption>
     </figure>
      <figure class="effect-oscar  wowload fadeInUp">
@@ -93,7 +86,7 @@
     </figure>
      
      <figure class="effect-oscar  wowload fadeInUp">
-        <img src="images/portfolio/16.png" alt="img01"/>
+        <img src="images/portfolio/16.jpg" alt="img01"/>
         <figcaption>
             <h2>PINCODE </h2>
             <p>List of pincode directory with contacts <br>
@@ -117,37 +110,14 @@
         </figcaption>
     </figure>
     <figure class="effect-oscar  wowload fadeInUp">
-        <img src="images/portfolio/19.jpg" alt="img01"/>
+        <img src="images/portfolio/19.png" alt="img01"/>
         <figcaption>
             <h2>BLOOD<BR>BANK</h2>
             <p>State wise list of Blood Bank Repositries<br>
             <a href="{{URL::asset('/information')}}" title="1" data-gallery>View more</a></p>            
         </figcaption>
     </figure>
-    <figure class="effect-oscar  wowload fadeInUp">
-        <img src="images/portfolio/20.jpg" alt="img01"/>
-        <figcaption>
-            <h2>TOURISM</h2>
-            <p>Tourism Satistics over the past 10 years<br>
-            <a href="{{URL::asset('/tourist')}}" title="1" data-gallery>View more</a></p>            
-        </figcaption>
-    </figure>
-    <figure class="effect-oscar  wowload fadeInUp">
-        <img src="images/portfolio/21.jpg" alt="img01"/>
-        <figcaption>
-            <h2>WPI</h2>
-            <p>Wholesale price index of Arhar dal<br>
-            <a href="{{URL::asset('/wholesale')}}" title="1" data-gallery>View more</a></p>            
-        </figcaption>
-    </figure>
-    <figure class="effect-oscar  wowload fadeInUp">
-        <img src="images/portfolio/22.jpg" alt="img01"/>
-        <figcaption>
-            <h2>INSTITUTIONS</h2>
-            <p>State wise list of stand alone institutions<br>
-            <a href="{{URL::asset('/information')}}" title="1" data-gallery>View more</a></p>            
-        </figcaption>
-    </figure>
+   
     
    </div>
 
