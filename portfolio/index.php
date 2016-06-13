@@ -45,8 +45,27 @@
               <p>Beautiful image slider for magento. <br/>Magento slider which is very easy to use.<br/> Special Price Offer. <br /><a target="_blank" href="https://www.magentocommerce.com/magento-connect/mag-image-slider.htmlhttps://dribbble.com/shots/1701001-GIF-Exercise">click here to view</a></p>
              </div>
           </li>   
+
+           <li>
+
+            <div class="slide" style="top-padding:12%">
+              <img class="icon" src="wobb/img/6.jpg" alt="Browser Icon"/>
+              <h1>COCO MARIE</h1>
+              <p>A unique fashion boutique in the heart of the Chilterns </br>featuring a handpicked selection of trend led </br>International brands at affordable prices.<br /><a target="_blank" href="http://cocomarie.co.uk/#">click here to view</a></p>
+             </div>
+          </li>   
+
+           <li>
+
+            <div class="slide" style="top-padding:12%">
+              <img class="icon" src="wobb/img/7.jpg" alt="Browser Icon"/>
+              <h1>BOUJIES</h1>
+              <p>The official website for Boujies London featuring our luxury </br>natural wax candlesstunning gift sets available to buy online  <br /><a target="_blank" href="http://www.boujies.com/">click here to view</a></p>
+             </div>
+          </li>   
         </ul>
       </div>
+
 <?php include '../footer.php' ; ?>     
         <script src="wobb/js/classie.js"></script>
     <script src="wobb/js/sliderFx.js"></script>

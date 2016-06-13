@@ -22,6 +22,35 @@
                         <p>Brainstorm withing ourselves and analyze the risks and other aspects of the projects .</p>
                      </div>
                   </div>
+                  <div class="s-12 m-6 l-4 margin-bottom">
+                     <i class="icon-eye"></i>
+                     <div class="service-text">
+                        <h3>We look to the future</h3>
+                        <p>Brainstorm withing ourselves and analyze the risks and other aspects of the projects .</p>
+                     </div>
+                  </div>
+                 
+                  <div class="s-12 m-6 l-4 margin-bottom">
+                     <i class="icon-eye"></i>
+                     <div class="service-text">
+                        <h3>We look to the future</h3>
+                        <p>Brainstorm withing ourselves and analyze the risks and other aspects of the projects .</p>
+                     </div>
+                  </div>
+                  <div class="s-12 m-6 l-4 margin-bottom">
+                     <i class="icon-eye"></i>
+                     <div class="service-text">
+                        <h3>We look to the future</h3>
+                        <p>Brainstorm withing ourselves and analyze the risks and other aspects of the projects .</p>
+                     </div>
+                  </div>
+                  <div class="s-12 m-6 l-4 margin-bottom">
+                     <i class="icon-eye"></i>
+                     <div class="service-text">
+                        <h3>We look to the future</h3>
+                        <p>Brainstorm withing ourselves and analyze the risks and other aspects of the projects .</p>
+                     </div>
+                  </div>
                   <div class="s-12 m-12 l-4 margin-bottom">
                      <i class="icon-random"></i>
                      <div class="service-text">
