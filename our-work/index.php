@@ -1,58 +1,159 @@
 <!DOCTYPE html>
+
+
+
 <?php include '../header.php' ; ?>
+
 <body class="size-1140">
   <!-- TOP NAV WITH LOGO -->
   <?php include '../menu.php' ; ?>
 <section>
+  <link href='http://fonts.googleapis.com/css?family=Roboto:400,300,700' rel='stylesheet' type='text/css'>
+
+<!-- font awesome -->
+<link href="assets/css/font-awesome.min.css" rel="stylesheet">
+<link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css" />
+
+<!-- animate.css -->
+<link rel="stylesheet" href="assets/animate/animate.css" />
+<link rel="stylesheet" href="assets/animate/set.css" />
+
+<!-- gallery -->
+<link rel="stylesheet" href="assets/gallery/blueimp-gallery.min.css">
+
+<!-- favicon -->
+<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+<link rel="icon" href="images/favicon.ico" type="image/x-icon">
+
+
+<link rel="stylesheet" href="assets/style.css">
+
+
+
+<script src="assets/js/jquery-1.11.1.js"></script>
+
+<script src="assets/js/table.js"></script>
+
+<script src="assets/js/search.js"></script>
+
+<link href="assets/css/bootstrap.css" rel="stylesheet" />
+<!-- ION ICONS STYLES -->
+<link href="assets/css/ionicons.css" rel="stylesheet" />
+<!-- FONT AWESOME ICONS STYLES -->
+<link href="assets/css/font-awesome.css" rel="stylesheet" />
+<!-- FANCYBOX POPUP STYLES -->
+<link href="assets/js/source/jquery.fancybox.css" rel="stylesheet" />
+<!-- STYLES FOR VIEWPORT ANIMATION -->
+<link href="assets/css/animations.min.css" rel="stylesheet" />
+
          <div id="our-work">
             <div class="line" style="padding-top: 3%">
                <h2 class="section-title">Our Work</h2>
-               <div class="tabs">
-                  <div class="tab-item tab-active">
-                    <a class="tab-label active-btn">Web Design</a>
-                    <div class="tab-content">
-                      <!--div class="margin">
-                        <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom"><div class="our-work-text"><h4>Lorem Ipsum Dolor</h4><p></p></div><img src="img/por1.jpg" alt=""></a></div>
-                        <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom"><div class="our-work-text"><h4>Lorem Ipsum Dolor</h4><p></p></div><img src="img/por4.jpg" alt=""></a></div>
-                        <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom"><div class="our-work-text"><h4>Lorem Ipsum Dolor</h4><p>Laoreet dolore magna aliquam erat volutpat.</p></div><img src="img/por6.jpg" alt=""></a></div>
-                        <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom"><div class="our-work-text"><h4>Lorem Ipsum Dolor</h4><p>Laoreet dolore magna aliquam erat volutpat.</p></div><img src="img/por3.jpg" alt=""></a></div>
-                      </div-->
-                    </div>  
-                  </div>
-                  <div class="tab-item">
-                    <a class="tab-label">Ecommerce</a>        
-                    <div class="tab-content">
-                      <!--div class="margin">
-                        <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom"><div class="our-work-text"><h4>Lorem Ipsum Dolor</h4><p>Laoreet dolore magna aliquam erat volutpat.</p></div><img src="img/por7.jpg" alt=""></a></div>
-                        <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom"><div class="our-work-text"><h4>Lorem Ipsum Dolor</h4><p>Laoreet dolore magna aliquam erat volutpat.</p></div><img src="img/por5.jpg" alt=""></a></div>
-                        <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom"><div class="our-work-text"><h4>Lorem Ipsum Dolor</h4><p>Laoreet dolore magna aliquam erat volutpat.</p></div><img src="img/por1.jpg" alt=""></a></div>
-                        <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom"><div class="our-work-text"><h4>Lorem Ipsum Dolor</h4><p>Laoreet dolore magna aliquam erat volutpat.</p></div><img src="img/por2.jpg" alt=""></a></div>
-                      </div!-->
-                    </div>  
-                  </div>
-                  <div class="tab-item">
-                    <a class="tab-label">App Development</a>
-                    <div class="tab-content">
-                      <!--div class="margin">
-                        <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom"><div class="our-work-text"><h4>Lorem Ipsum Dolor</h4><p>Laoreet dolore magna aliquam erat volutpat.</p></div><img src="img/por4.jpg" alt=""></a></div>
-                        <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom"><div class="our-work-text"><h4>Lorem Ipsum Dolor</h4><p>Laoreet dolore magna aliquam erat volutpat.</p></div><img src="img/por6.jpg" alt=""></a></div>
-                        <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom"><div class="our-work-text"><h4>Lorem Ipsum Dolor</h4><p>Laoreet dolore magna aliquam erat volutpat.</p></div><img src="img/por3.jpg" alt=""></a></div>
-                        <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom"><div class="our-work-text"><h4>Lorem Ipsum Dolor</h4><p>Laoreet dolore magna aliquam erat volutpat.</p></div><img src="img/por5.jpg" alt=""></a></div>
-                      </div-->
-                    </div>  
-                  </div>
-                  <div class="tab-item">
-                    <a class="tab-label">Process Automation</a>
-                    <div class="tab-content">
-                      <!--div class="margin">
-                        <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom"><div class="our-work-text"><h4>Lorem Ipsum Dolor</h4><p>Laoreet dolore magna aliquam erat volutpat.</p></div><img src="img/por7.jpg" alt=""></a></div>
-                        <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom"><div class="our-work-text"><h4>Lorem Ipsum Dolor</h4><p>Laoreet dolore magna aliquam erat volutpat.</p></div><img src="img/por2.jpg" alt=""></a></div>
-                        <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom"><div class="our-work-text"><h4>Lorem Ipsum Dolor</h4><p>Laoreet dolore magna aliquam erat volutpat.</p></div><img src="img/por5.jpg" alt=""></a></div>
-                        <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom"><div class="our-work-text"><h4>Lorem Ipsum Dolor</h4><p>Laoreet dolore magna aliquam erat volutpat.</p></div><img src="img/por6.jpg" alt=""></a></div>
-                      </div-->
-                    </div>  
-                  </div>
-               </div>
+            
+               <div id="works"  class=" clearfix grid"> 
+    <figure class="effect-oscar  wowload fadeIn">
+        <img src="images/portfolio/11.jpg" alt="img01"/>
+        <figcaption>
+            <h2>HOSPITALS</h2>
+            <p>State wise list of hospitals in India<br>
+            <a href="{{URL::asset('/information')}}" title="1" data-gallery>View more</a></p>            
+        </figcaption>
+    </figure>
+     <figure class="effect-oscar  wowload fadeInUp">
+        <img src="images/portfolio/12.jpg" alt="img01"/>
+        <figcaption>
+            <h2>TRANSPORT</h2>
+            <p>State wise list of vehicles registered per year<br>
+            <a href="images/portfolio/12.jpg" title="1" data-gallery>View more</a></p>            
+        </figcaption>
+    </figure>
+     <figure class="effect-oscar  wowload fadeInUp">
+        <img src="images/portfolio/13.jpg" alt="img01"/>
+        <figcaption>
+            <h2>EDUCATION</h2>
+            <p>State wise list of availability of Education loans<br>
+            <a href="{{URL::asset('/information')}}" title="1" data-gallery>View more</a></p>            
+        </figcaption>
+    </figure>
+     <figure class="effect-oscar  wowload fadeInUp">
+        <img src="images/portfolio/14.jpg" alt="img01"/>
+        <figcaption>
+            <h2>HOTELS</h2>
+            <p>State wise list of hotels <br>
+            <a href="images/portfolio/14.jpg" title="1" data-gallery>View more</a></p>            
+        </figcaption>
+    </figure>
+     <figure class="effect-oscar  wowload fadeInUp">
+        <img src="images/portfolio/15.jpg" alt="img01"/>
+        <figcaption>
+            <h2>RAILWAYS</h2>
+            <p>Railway Time Table<br>
+            <a href="{{URL::asset('/railway')}}" title="1" data-gallery>View more</a></p>            
+        </figcaption>
+    </figure>
+     
+     <figure class="effect-oscar  wowload fadeInUp">
+        <img src="images/portfolio/16.png" alt="img01"/>
+        <figcaption>
+            <h2>PINCODE </h2>
+            <p>List of pincode directory with contacts <br>
+            <a href={{URL::asset('/pincode')}} title="1" data-gallery>View more</a></p>            
+        </figcaption>
+    </figure>
+    <figure class="effect-oscar  wowload fadeInUp">
+        <img src="images/portfolio/17.jpg" alt="img01"/>
+        <figcaption>
+            <h2>IMPORTS</h2>
+            <p>State wise list of imports in an year<br>
+            <a href="{{URL::asset('/wholesale')}}" title="1" data-gallery>View more</a></p>            
+        </figcaption>
+    </figure>
+    <figure class="effect-oscar  wowload fadeInUp">
+        <img src="images/portfolio/18.jpg" alt="img01"/>
+        <figcaption>
+            <h2>HEALTH CENTRES</h2>
+            <p>State wise list of Community Health Centres<br>
+            <a href="{{URL::asset('/information')}}" title="1" data-gallery>View more</a></p>            
+        </figcaption>
+    </figure>
+    <figure class="effect-oscar  wowload fadeInUp">
+        <img src="images/portfolio/19.jpg" alt="img01"/>
+        <figcaption>
+            <h2>BLOOD<BR>BANK</h2>
+            <p>State wise list of Blood Bank Repositries<br>
+            <a href="{{URL::asset('/information')}}" title="1" data-gallery>View more</a></p>            
+        </figcaption>
+    </figure>
+    <figure class="effect-oscar  wowload fadeInUp">
+        <img src="images/portfolio/20.jpg" alt="img01"/>
+        <figcaption>
+            <h2>TOURISM</h2>
+            <p>Tourism Satistics over the past 10 years<br>
+            <a href="{{URL::asset('/tourist')}}" title="1" data-gallery>View more</a></p>            
+        </figcaption>
+    </figure>
+    <figure class="effect-oscar  wowload fadeInUp">
+        <img src="images/portfolio/21.jpg" alt="img01"/>
+        <figcaption>
+            <h2>WPI</h2>
+            <p>Wholesale price index of Arhar dal<br>
+            <a href="{{URL::asset('/wholesale')}}" title="1" data-gallery>View more</a></p>            
+        </figcaption>
+    </figure>
+    <figure class="effect-oscar  wowload fadeInUp">
+        <img src="images/portfolio/22.jpg" alt="img01"/>
+        <figcaption>
+            <h2>INSTITUTIONS</h2>
+            <p>State wise list of stand alone institutions<br>
+            <a href="{{URL::asset('/information')}}" title="1" data-gallery>View more</a></p>            
+        </figcaption>
+    </figure>
+    
+   </div>
+
+
+
+            
             </div>
          </div>         
          
