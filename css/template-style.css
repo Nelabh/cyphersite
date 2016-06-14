@@ -296,6 +296,7 @@ h2.section-title:after {
 h2.section-title {
 	color: #dedede;
 	font-size: 3.8em;
+	padding-top: 4%;
 	font-weight: 700;
 	letter-spacing: -1px;
 	margin: 0 0 1.25em;
